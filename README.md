@@ -12,7 +12,7 @@ Most calculators show you a happy 8% return forever. I wanted to build something
 ### 1. The Cone of Uncertainty (Monte Carlo)
 Instead of a single "prediction," this renders a probability cloud (10th to 90th percentile).
 * **Why:** Because the future is a distribution, not a line.
-* 
+  
 ### 2. "The Grind" Visualization
 Munger famously said the first $100k is the hardest.
 * **The Feature:** The chart line stays muted/grey until the portfolio crosses the $100k threshold.
