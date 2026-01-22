@@ -5,23 +5,22 @@
 ![Dashboard Screenshot](./dashboard-preview.png)
 
 ## 🧠 The Philosophy (Why I built this)
-Most calculators show you a happy 8% return forever. I wanted to build something Howard Marks or Charlie Munger might actually approve of—something that focuses on avoiding ruin rather than just chasing returns.
+Most calculators show you a happy 8% return forever. I wanted to build something Howard Marks or Charlie Munger might actually approve of, something that focuses on avoiding ruin rather than just chasing returns.
 
 ## ⚡ Features
 
 ### 1. The Cone of Uncertainty (Monte Carlo)
 Instead of a single "prediction," this renders a probability cloud (10th to 90th percentile).
 * **Why:** Because the future is a distribution, not a line.
-* **Tech:** Custom logic generating variable return arrays fed into Recharts.
-
+* 
 ### 2. "The Grind" Visualization
 Munger famously said the first $100k is the hardest.
 * **The Feature:** The chart line stays muted/grey until the portfolio crosses the $100k threshold.
-* **The Vibe:** It visually validates the struggle of the early years before compound interest really kicks in.
+* **Why:** It visually validates the struggle of the early years before compound interest really kicks in.
 
 ### 3. The "Croupier's Cut" (Fee Drag)
 * **The Feature:** A dynamic "Lost to Fees" counter.
-* **Reality Check:** You can see exactly how many thousands of dollars a "small" 1% expense ratio eats up over 25 years.
+* **Why:** You can see exactly how many thousands of dollars a "small" 1% expense ratio eats up over 25 years.
 
 ### 4. Stress Testing
 * **Market Cycle Inputs:** Adjust starting valuations (High/Low P/E).
