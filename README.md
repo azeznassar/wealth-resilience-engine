@@ -16,7 +16,7 @@ Instead of a single "prediction," this renders a probability cloud (10th to 90th
 ### 2. "The Grind" Visualization
 Munger famously said the first $100k is the hardest.
 * **The Feature:** The chart line stays muted/grey until the portfolio crosses the $100k threshold.
-* **Why:** It visually validates the struggle of the early years before compound interest really kicks in.
+* **Why:** It visually validates the struggle of the early years before compounding really kicks in.
 
 ### 3. The "Croupier's Cut" (Fee Drag)
 * **The Feature:** A dynamic "Lost to Fees" counter.
