@@ -1,4 +1,5 @@
-# Wealth Resilience Engine / Compound Calculator
+# 📈💰 Wealth Resilience Engine
+### *A Realistic Compound Calculator*
 
 > *"The first $100,000 is a bitch, but you gotta do it." — Charlie Munger*
 
@@ -25,3 +26,8 @@ Munger famously said the first $100k is the hardest.
 ### 4. Stress Testing
 * **Market Cycle Inputs:** Adjust starting valuations (High/Low P/E).
 * **The "Black Swan" Switch:** Instantly simulate a 30% market crash in Year 5 to see if your plan survives.
+
+### 5. Purchasing Power Mode (Real vs. Nominal)
+Inflation is the invisible tax.
+* **The Feature:** A toggle to switch the simulation between "Nominal" dollars (the number on the screen) and "Real" dollars (what that money actually buys in the future).
+* **Why:** To ensure your returns are real wealth, not just inflation in disguise.
