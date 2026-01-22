@@ -2,7 +2,7 @@
 
 > *"The first $100,000 is a bitch, but you gotta do it." — Charlie Munger*
 
-![Dashboard Screenshot](./dashboard-preview.jpg)
+![Dashboard Screenshot](./dashboard-preview.png)
 
 ## 🧠 The Philosophy (Why I built this)
 Most calculators show you a happy 8% return forever. That's dangerous. I wanted to build something Howard Marks or Charlie Munger might actually approve of—something that focuses on avoiding ruin rather than just chasing returns.
