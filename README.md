@@ -1,4 +1,4 @@
-# 📈💰 Wealth Resilience Engine
+# 📈 Wealth Resilience Engine
 ### *A Realistic Compound Calculator*
 
 > *"The first $100,000 is a bitch, but you gotta do it." - Charlie Munger*
